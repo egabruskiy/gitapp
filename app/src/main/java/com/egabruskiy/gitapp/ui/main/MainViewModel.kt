@@ -4,6 +4,9 @@ import androidx.lifecycle.ViewModel
 
 class MainViewModel : ViewModel() {
 
+    fun n5() {
+    }
+
     fun n3() {
     }
 
@@ -13,4 +16,6 @@ class MainViewModel : ViewModel() {
 
     fun n2() {
     }
+
+
 }
