@@ -12,9 +12,11 @@ class MainViewModel : ViewModel() {
 
 
     fun n1() {
+        var a = 1 + 2
     }
 
     fun n2() {
+        var b = 1 * 2
     }
 
 
