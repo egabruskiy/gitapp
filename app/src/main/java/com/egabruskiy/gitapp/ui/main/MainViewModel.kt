@@ -4,6 +4,8 @@ import androidx.lifecycle.ViewModel
 
 class MainViewModel : ViewModel() {
 
+
+    // это nb1
     fun n3() {
     }
 
