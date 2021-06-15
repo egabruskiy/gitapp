@@ -6,6 +6,7 @@ class MainViewModel : ViewModel() {
 
 
     // это nb1
+    // это nb2
     fun n5() {
     }
 
